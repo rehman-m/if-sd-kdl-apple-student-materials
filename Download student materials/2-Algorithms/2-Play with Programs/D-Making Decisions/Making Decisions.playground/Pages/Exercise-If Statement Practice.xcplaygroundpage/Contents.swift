@@ -6,7 +6,15 @@
 let a = 20
 let b = 30
 let c = 20
-
+if (a == c){
+    print ("a and c are th same")
+} else if (a>b){
+    print("b is ahead of a")
+} else if (b < a){
+    print ("a is a loser")
+} else(a >= c){
+    print("a is losing or tied with c loser a ")
+}
 // If a is equal to c, print "a and c are the same"
 
 // If a is less than b, print "b is ahead of a"

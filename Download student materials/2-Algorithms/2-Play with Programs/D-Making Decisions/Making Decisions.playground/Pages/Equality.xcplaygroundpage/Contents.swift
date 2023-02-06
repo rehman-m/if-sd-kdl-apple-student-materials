@@ -27,9 +27,11 @@ Named values can also be used in comparisons:
 let hundred = 100
 let tenTimesTen = 10 * 10
 let nineTimesTen = 9 * 10
-
+let five = 5
+let no = 10 - 5
 hundred == tenTimesTen
 hundred == nineTimesTen
+five == no
 //:  - Experiment: Try some comparisons of your own. Can you check if two string values are equal?
 
 /*:

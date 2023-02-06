@@ -18,7 +18,13 @@ if videoLength < 5 {
 } else {
     "That's lovely."
 }
+no = 5 + 5
 
+if(no==10){
+    print("Lets go")
+} else {
+    print("Idiot")
+}
 /*:
  This is called an _if/else statement_. It works like this:
 - `if`…

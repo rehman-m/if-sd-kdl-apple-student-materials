@@ -6,10 +6,9 @@
 let secretWord = "banana"
 let guess = "apple"
 
-if secretWord == guess {
+if (secretWord == guess) {
     print("Your guess is right.")
-}
-if secretWord != guess {
+} else if (secretWord != guess) {
     print("Your guess is wrong.")
 }
 
