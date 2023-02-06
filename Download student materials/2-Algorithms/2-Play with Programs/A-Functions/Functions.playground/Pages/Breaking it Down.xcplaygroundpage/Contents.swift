@@ -22,11 +22,15 @@ func merrilyDream() {
 func breatheBetweenVerses() {
     print("        ~        ")
 }
+func crocodileTears(){
+    print("I see starin like you want  it")
+}
 //: Now you can use these functions to print the first verse and the start of the second verse like this:
 rowTheBoat()
 merrilyDream()
 breatheBetweenVerses()
 rowTheBoat()
+crocodileTears()
 //:  - callout(Exercise): Write a function called `crocodileScream()` for the second two lines of the second verse, and call it to complete the song in the console.
 
 /*:

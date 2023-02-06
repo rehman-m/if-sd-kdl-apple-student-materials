@@ -23,7 +23,7 @@ func verseOne() {
 }
 
 verseOne()
-
+AllAboutU()
 
 //:  - callout(Exercise): Write a function for an alternate second verse of the song using the laughing submarine function below.
 func laughingSubmarine() {
@@ -32,7 +32,9 @@ func laughingSubmarine() {
 }
 
 // Write the second verse function below
-
+func AllAboutU(){
+    print("Well that's the reason why I call, and maybe you with it Fantansies of us sweating, can I hit it?" )
+}
 /*:
 On the next page, learn how things can go wrong when using functions of functions.
 
